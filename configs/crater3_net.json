@@ -1,0 +1,10 @@
+{
+  "model_name": "Crater3-Net",
+  "epochs": 150,
+  "batch_size": 16,
+  "learning_rate": 0.001,
+  "lr_factor": 0.5,
+  "lr_patience": 3,
+  "seed": 666,
+  "channel_order": ["DEM", "slope", "plan curvature"]
+}
