@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "Please cite the associated manuscript; update this record with final publication and software-release metadata when available."
+type: software
+title: "Crater3-Net: lunar crater sub-geomorphology segmentation"
+authors:
+  - family-names: Deng
+    given-names: Jiayin
+abstract: "Implementation associated with Segmentation of Lunar Crater Sub-geomorphology based on an improved U-Net. Confirm publication metadata and the complete contributor list before release."
